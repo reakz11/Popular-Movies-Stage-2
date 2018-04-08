@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies Project</string>
+    <string name="refresh">Refresh</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="img_blurred_bg">Blurred background image</string>
+    <string name="img_movie_poster">Movie poster image</string>
+</resources>
